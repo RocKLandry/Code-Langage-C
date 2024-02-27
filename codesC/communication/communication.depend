@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645396410 source:c:\users\pc\desktop\mes codes\codesblocks\communication\main.c
+	<stdio.h>
+	<stdlib.h>
+

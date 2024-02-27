@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644195412 source:c:\users\pc\desktop\mes codes\codesblocks\résolution equation du 2nd degre\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
