@@ -3,11 +3,13 @@
 int n,r,q,reste,i;
 char restec[100] ,b[100];
 int main()
-{do
 {
-    printf("donner un nombre compris entre o et 255 : ");
-     scanf("%d",&n);
-}
+    /* Ce programme donne la forme binaire d'un entier compris entre 0 et 255*/
+    do
+    {
+        printf("donner un nombre compris entre o et 255 : ");
+        scanf("%d",&n);
+    }
   while((n<0)||(n>255));
   q=n;
   for(i=1;i<=8;i++)

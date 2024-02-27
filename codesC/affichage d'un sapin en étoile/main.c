@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 int n,i,j,esp;/* n=nombre de lignes   i=num�ro de la ligne  esp=espace � qauche et � droite des �toiles*/
-4
+
 int main()
-{
-    printf("Ce programme vous affichera un triangles isoc�le  en etoile\n");
+{   /* n=nombre de lignes   i=num�ro de la ligne  esp=espace � qauche et � droite des �toiles*/
+    printf("Ce programme vous affichera un triangles isocele  en etoile\n");
     printf("Donner  le nombre de ligne\n");
     scanf("%i",&n);
 

@@ -2,9 +2,12 @@
 #include <stdlib.h>
 int n,i,som,p;
 int main()
-{   p=0;
+{
+    /* Ce code prends 100 fois que des valeurs comprises entre O et 255 puis fais la somme des nombres pairs */
+
+    p=0;
     som=0;
-    for(i=1;i<=10;i++)
+    for(i=1;i<=100;i++)
     { n=-1;
      while((n<0)||(n>255))
      {

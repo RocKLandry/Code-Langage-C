@@ -2,10 +2,11 @@
 #include <stdlib.h>
 int table(int);
 int main()
-{ int n;
+{   /* Ce programme utilise une fonction pour afficher la table de multiplication d'un entier lu*/
+    int n;
     printf("donner un nombre\n");
     scanf("%i",&n);
-     printf(table(n));
+    printf(table(n));
     return 0;
 }
 int table(int a)

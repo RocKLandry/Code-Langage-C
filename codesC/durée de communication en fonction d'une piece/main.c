@@ -4,7 +4,8 @@ int piece;
 char modele[10];
 
 int main()
-{
+{   /* Ce code donne une durée de communication en fonction de la valeur d'une pièce donnée*/
+
     printf("DONNEZ LA PIECE\n");
     scanf("%i",&piece);
     switch(piece)

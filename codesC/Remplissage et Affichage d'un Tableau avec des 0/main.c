@@ -5,6 +5,7 @@ int i,j;
 
 int main()
 {
+    /* Ce code a pour but de remplir et d'afficher un un tableau avec des 0 */
 
     for(i=0;i<10;i++)
    {
